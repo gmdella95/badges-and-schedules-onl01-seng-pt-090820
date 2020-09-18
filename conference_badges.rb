@@ -1,3 +1,3 @@
-def badge_maker("Arel")
-  print "Hello, my name is Arel."
+def badge_maker(name)
+  print "Hello, my name is #{name}."
 end
