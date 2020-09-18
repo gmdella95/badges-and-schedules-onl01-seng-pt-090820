@@ -3,4 +3,16 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(array)
-  names["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+  badge_messages = []
+  names.each do |name|
+  end
+end    
+
+
+def batch_badge_creator(array)
+  exponent_number = []
+  numbers.each do |number|
+    exponent_number.push(number ** 2)
+  end
+(exponent_number)
+end
