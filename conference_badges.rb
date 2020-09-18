@@ -9,3 +9,11 @@ def batch_badge_creator(names)
   end
   new_array
 end
+
+def assign_rooms(room_numbers)
+  room_numbers []
+  room_numbers.each do |number|
+    newer_array.push ("Hello,#{name}! You'll be assigned to room #{number}!")
+  end
+  newer_array
+end
