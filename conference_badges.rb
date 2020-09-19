@@ -22,7 +22,3 @@ def printer(names)
   puts "new_array"
   puts "newer_array"
 end
-
-
-
-  
