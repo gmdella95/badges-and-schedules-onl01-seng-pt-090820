@@ -17,3 +17,12 @@ def assign_rooms(names)
   end
   newer_array
 end
+
+def printer(names)
+  puts "new_array"
+  puts "newer_array"
+end
+
+
+
+  
